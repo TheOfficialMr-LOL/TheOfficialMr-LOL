@@ -5,6 +5,7 @@ Here are some links to past projects:
 
 - (Minesweeper) https://minemania.azurewebsites.net/
 - (Unbeatable Tic Tac Toe) https://tictactoe-unbeatable.azurewebsites.net/
+- (Unbeatable Connect 4) [link coming soon]
 
 DISCLAIMER: May be incompatible with Safari
 
