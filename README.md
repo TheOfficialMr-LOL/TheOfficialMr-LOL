@@ -7,7 +7,6 @@ Here are some links to past projects:
 - (Unbeatable Tic Tac Toe) https://tictactoe-unbeatable.azurewebsites.net/
 - (Unbeatable Connect 4) https://connect4-arena.azurewebsites.net/
 
-> ⚠️ _Note: These may not work properly on Safari._
 
 <br>
 
