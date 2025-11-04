@@ -49,6 +49,9 @@ Feel free to contact me on discord
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-1E7D3A?style=for-the-badge&logo=android-studio&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=windows&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 
 
 
