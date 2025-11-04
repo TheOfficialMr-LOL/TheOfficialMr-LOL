@@ -12,8 +12,8 @@ Here are some links to past projects:
 
 <br>
 
-Feel free to contact me on discord
-📬 https://discord.com/users/745301207043801129
+Feel free to contact me on my professional Gmail
+📬 aeshan.jiniwal@gmail.com
 
 
 
