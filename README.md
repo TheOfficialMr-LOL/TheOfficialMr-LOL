@@ -1,5 +1,5 @@
 ## About me
-I'm a passionate **Full Stack Developer** who has been coding since the age of 11.
+I'm a passionate Full Stack Developer who has been coding since the age of 11.
 
 <br>
 Here are some links to past projects:
