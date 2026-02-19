@@ -51,6 +51,7 @@ Feel free to contact me on my professional Gmail
 ![Android Studio](https://img.shields.io/badge/Android_Studio-1E7D3A?style=for-the-badge&logo=android-studio&logoColor=white)
 ![WSL](https://img.shields.io/badge/WSL-0A97F5?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+Firebase
 
 
 
