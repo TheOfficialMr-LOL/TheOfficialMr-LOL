@@ -12,7 +12,7 @@ Here are some links to past projects:
 
 <br>
 
-Feel free to contact me on my professional Gmail
+Feel free to contact me on Gmail
 📬 aeshan.jiniwal@gmail.com
 
 
