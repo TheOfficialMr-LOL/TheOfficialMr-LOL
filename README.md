@@ -1,13 +1,16 @@
 ## About me
 I'm a passionate full stack developer who has been coding since the age of 11.
 
-<br>
+Visit my Portfolio: https://theofficialmr-lol.github.io/portfolio/
+
 Here are some links to past projects:
 
 
-- (Minesweeper) https://minemania.azurewebsites.net/
-- (Unbeatable Tic Tac Toe) https://tictactoe-unbeatable.azurewebsites.net/
-- (Unbeatable Connect 4) https://connect4-arena.azurewebsites.net/
+- Full-stack React & React-Native developer
+- Discovered a passion for coding at the age of 11
+- 4+ years experience in software development
+- Obsessed with clean, playful, and minimalistic UI designs
+- Interested in philosophy
 
 
 <br>
