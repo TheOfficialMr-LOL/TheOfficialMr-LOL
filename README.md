@@ -3,9 +3,6 @@ I'm a passionate full stack developer who has been coding since the age of 11.
 
 Visit my Portfolio: https://theofficialmr-lol.github.io/portfolio/
 
-Here are some links to past projects:
-
-
 - Full-stack React & React-Native developer
 - Discovered a passion for coding at the age of 11
 - 4+ years experience in software development
