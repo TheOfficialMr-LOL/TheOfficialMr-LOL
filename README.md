@@ -7,7 +7,7 @@ Visit my Portfolio: https://theofficialmr-lol.github.io/portfolio/
 - Discovered a passion for coding at the age of 11
 - 5+ years experience in software development
 - Obsessed with clean, playful, and minimalistic UI designs
-- Interested in philosophy
+- Philosophy enthusiast
 
 
 <br>
