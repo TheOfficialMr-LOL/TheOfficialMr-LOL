@@ -3,11 +3,11 @@ I'm a passionate full stack developer who has been coding since the age of 11.
 
 Visit my Portfolio: https://theofficialmr-lol.github.io/portfolio/
 
-- Full-stack React & React-Native developer
-- Discovered a passion for coding at the age of 11
-- 5+ years experience in software development
-- Obsessed with clean, playful, and minimalistic UI designs
-- Philosophy enthusiast
+➜ Full-stack React & React-Native developer
+➜ Discovered a passion for coding at the age of 11
+➜ 5+ years experience in software development
+➜ Obsessed with clean, playful, and minimalistic UI designs
+➜ Philosophy enthusiast
 
 
 <br>
