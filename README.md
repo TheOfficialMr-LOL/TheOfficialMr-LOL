@@ -17,7 +17,7 @@ Visit my Portfolio: https://theofficialmr-lol.github.io/portfolio/
 
 <br>
 
-Feel free to contact me on Gmail
+
 📬 aeshan.jiniwal@gmail.com
 
 
